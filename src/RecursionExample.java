@@ -1,6 +1,6 @@
 public class RecursionExample {
         public static void main(String[] args) {
-            int result = sum(10000);
+            int result = sum(5);
             System.out.println(result);
         }
         public static int sum(int k) {
